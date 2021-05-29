@@ -1,0 +1,2 @@
+realese: pyhton manage.py migrate
+web: gunicorn backend.wsgi
